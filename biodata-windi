@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>biodata-windi</title>
+  </head>
+  <body>
+    <h1>windi</h1>
+    <p>hallo nama saya windi</p>
+    <ul>
+      my hobby
+      <li>traveling</li>
+      <li>scrol</li>
+      <li>cekout shopee</li>
+      <li>main</li>
+      <li>belanja</li>
+    </ul>
+<img src="pp.jpg" alt="" width="200">
+  </body>
+</html>
